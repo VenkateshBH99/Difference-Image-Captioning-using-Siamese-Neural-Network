@@ -1,4 +1,4 @@
-# Difference-Image-Captioning-using-Siamese-Neural-Network
+# Difference-Image-Captioning-using-Siamese-Neural-Network.
 
 # Dataset link: 
      https://drive.google.com/file/d/1OVb4_3Uec_xbyUk90aWC6LFpKsIOtR7v/view?usp=sharing
